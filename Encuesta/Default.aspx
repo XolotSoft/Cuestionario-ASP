@@ -14,7 +14,8 @@
             <div class="page-header">
 	            <h1>ASP<span><small> Cuestionario</small></span></h1>
 	        </div>   
-                <asp:Label ID="Label21" runat="server" Text="Escribe tu nombre:"></asp:Label><asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br /><br />
+                <asp:Label ID="Label21" runat="server" Text="Escribe tu nombre:"></asp:Label>
+                <asp:TextBox ID="TextBox1" runat="server" Width="280px"></asp:TextBox><br /><br />
                 <asp:Label ID="Label1" runat="server" Text="1- ¿Que es una aplicación Web?"></asp:Label >
                 <asp:Image ID="Image1" runat="server" CssClass="calificacion" /><br /><br />
                 <asp:Panel ID="Panel1" runat="server">

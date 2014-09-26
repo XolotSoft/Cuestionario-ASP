@@ -1,10 +1,13 @@
 ﻿Public Class WebForm1
     Inherits System.Web.UI.Page
-    Dim ra As Integer
-    Dim rb As Integer
-    Dim rc As Integer
-    Dim rd As Integer
-    Dim re As Integer
+    Dim ra As Integer = 0
+    Dim rb As Integer = 0
+    Dim rc As Integer = 0
+    Dim rd As Integer = 0
+    Dim re As Integer = 0
+    Dim rok As Integer = 0
+    Dim rm As Integer = 0
+
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
     End Sub
@@ -12,46 +15,57 @@
     Protected Sub p1a_CheckedChanged(sender As Object, e As EventArgs) Handles p1a.CheckedChanged
         Panel1.Visible = False
         Image1.ImageUrl = "src/bad.png"
+        ra = ra + 1
+        rm = rm + 1
     End Sub
 
     Protected Sub p1b_CheckedChanged(sender As Object, e As EventArgs) Handles p1b.CheckedChanged
         Panel1.Visible = False
         Image1.ImageUrl = "src/bad.png"
+        rb = rb + 1
+        rm = rm + 1
     End Sub
 
     Protected Sub p1c_CheckedChanged(sender As Object, e As EventArgs) Handles p1c.CheckedChanged
         Panel1.Visible = False
         Image1.ImageUrl = "src/bad.png"
+        rm = rm + 1
     End Sub
 
     Protected Sub p1d_CheckedChanged(sender As Object, e As EventArgs) Handles p1d.CheckedChanged
         Panel1.Visible = False
         Image1.ImageUrl = "src/bad.png"
+        rm = rm + 1
     End Sub
 
     Protected Sub p1e_CheckedChanged(sender As Object, e As EventArgs) Handles p1e.CheckedChanged
         Panel1.Visible = False
         Image1.ImageUrl = "src/ok.png"
+        rok = rok + 1
     End Sub
 
     Protected Sub p2a_CheckedChanged(sender As Object, e As EventArgs) Handles p2a.CheckedChanged
         Panel2.Visible = False
         Image2.ImageUrl = "src/bad.png"
+        rm = rm + 1
     End Sub
 
     Protected Sub p2b_CheckedChanged(sender As Object, e As EventArgs) Handles p2b.CheckedChanged
         Panel2.Visible = False
         Image2.ImageUrl = "src/bad.png"
+        rm = rm + 1
     End Sub
 
     Protected Sub p2c_CheckedChanged(sender As Object, e As EventArgs) Handles p2c.CheckedChanged
         Panel2.Visible = False
         Image2.ImageUrl = "src/ok.png"
+        rok = rok + 1
     End Sub
 
     Protected Sub p2d_CheckedChanged(sender As Object, e As EventArgs) Handles p2d.CheckedChanged
         Panel2.Visible = False
         Image2.ImageUrl = "src/bad.png"
+        rm = rm + 1
     End Sub
 
     Protected Sub p2e_CheckedChanged(sender As Object, e As EventArgs) Handles p2e.CheckedChanged
