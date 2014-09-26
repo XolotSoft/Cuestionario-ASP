@@ -33,1115 +33,1171 @@ Encuesta
 	<remarks></remarks>
 </member><member name="F:Encuesta.WebForm1.form1">
 	<summary>
-form1 control.
+Control form1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label21">
 	<summary>
-Label21 control.
+Control Label21.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.TextBox1">
 	<summary>
-TextBox1 control.
+Control TextBox1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label1">
 	<summary>
-Label1 control.
+Control Label1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image1">
 	<summary>
-Image1 control.
+Control Image1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel1">
 	<summary>
-Panel1 control.
+Control Panel1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p1a">
 	<summary>
-p1a control.
+Control p1a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p1b">
 	<summary>
-p1b control.
+Control p1b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p1c">
 	<summary>
-p1c control.
+Control p1c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p1d">
 	<summary>
-p1d control.
+Control p1d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p1e">
 	<summary>
-p1e control.
+Control p1e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label2">
 	<summary>
-Label2 control.
+Control Label2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image2">
 	<summary>
-Image2 control.
+Control Image2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel2">
 	<summary>
-Panel2 control.
+Control Panel2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p2a">
 	<summary>
-p2a control.
+Control p2a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p2b">
 	<summary>
-p2b control.
+Control p2b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p2c">
 	<summary>
-p2c control.
+Control p2c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p2d">
 	<summary>
-p2d control.
+Control p2d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p2e">
 	<summary>
-p2e control.
+Control p2e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label3">
 	<summary>
-Label3 control.
+Control Label3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image3">
 	<summary>
-Image3 control.
+Control Image3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel3">
 	<summary>
-Panel3 control.
+Control Panel3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList1">
 	<summary>
-DropDownList1 control.
+Control DropDownList1.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label4">
 	<summary>
-Label4 control.
+Control Label4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image4">
 	<summary>
-Image4 control.
+Control Image4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel4">
 	<summary>
-Panel4 control.
+Control Panel4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p4a">
 	<summary>
-p4a control.
+Control p4a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p4b">
 	<summary>
-p4b control.
+Control p4b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p4c">
 	<summary>
-p4c control.
+Control p4c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p4d">
 	<summary>
-p4d control.
+Control p4d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p4e">
 	<summary>
-p4e control.
+Control p4e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label5">
 	<summary>
-Label5 control.
+Control Label5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image5">
 	<summary>
-Image5 control.
+Control Image5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel5">
 	<summary>
-Panel5 control.
+Control Panel5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p5a">
 	<summary>
-p5a control.
+Control p5a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p5b">
 	<summary>
-p5b control.
+Control p5b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p5c">
 	<summary>
-p5c control.
+Control p5c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p5d">
 	<summary>
-p5d control.
+Control p5d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p5e">
 	<summary>
-p5e control.
+Control p5e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label6">
 	<summary>
-Label6 control.
+Control Label6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image6">
 	<summary>
-Image6 control.
+Control Image6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel6">
 	<summary>
-Panel6 control.
+Control Panel6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p6a">
 	<summary>
-p6a control.
+Control p6a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p6b">
 	<summary>
-p6b control.
+Control p6b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p6c">
 	<summary>
-p6c control.
+Control p6c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p6d">
 	<summary>
-p6d control.
+Control p6d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p6e">
 	<summary>
-p6e control.
+Control p6e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label7">
 	<summary>
-Label7 control.
+Control Label7.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image7">
 	<summary>
-Image7 control.
+Control Image7.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel7">
 	<summary>
-Panel7 control.
+Control Panel7.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList2">
 	<summary>
-DropDownList2 control.
+Control DropDownList2.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label8">
 	<summary>
-Label8 control.
+Control Label8.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image8">
 	<summary>
-Image8 control.
+Control Image8.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel8">
 	<summary>
-Panel8 control.
+Control Panel8.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p8a">
 	<summary>
-p8a control.
+Control p8a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p8b">
 	<summary>
-p8b control.
+Control p8b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p8c">
 	<summary>
-p8c control.
+Control p8c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p8d">
 	<summary>
-p8d control.
+Control p8d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p8e">
 	<summary>
-p8e control.
+Control p8e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label9">
 	<summary>
-Label9 control.
+Control Label9.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image9">
 	<summary>
-Image9 control.
+Control Image9.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel9">
 	<summary>
-Panel9 control.
+Control Panel9.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p9a">
 	<summary>
-p9a control.
+Control p9a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p9b">
 	<summary>
-p9b control.
+Control p9b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p9c">
 	<summary>
-p9c control.
+Control p9c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p9d">
 	<summary>
-p9d control.
+Control p9d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p9e">
 	<summary>
-p9e control.
+Control p9e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label10">
 	<summary>
-Label10 control.
+Control Label10.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image10">
 	<summary>
-Image10 control.
+Control Image10.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel10">
 	<summary>
-Panel10 control.
+Control Panel10.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList3">
 	<summary>
-DropDownList3 control.
+Control DropDownList3.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label11">
 	<summary>
-Label11 control.
+Control Label11.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image11">
 	<summary>
-Image11 control.
+Control Image11.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel11">
 	<summary>
-Panel11 control.
+Control Panel11.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p11a">
 	<summary>
-p11a control.
+Control p11a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p11b">
 	<summary>
-p11b control.
+Control p11b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p11c">
 	<summary>
-p11c control.
+Control p11c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p11d">
 	<summary>
-p11d control.
+Control p11d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p11e">
 	<summary>
-p11e control.
+Control p11e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label12">
 	<summary>
-Label12 control.
+Control Label12.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image12">
 	<summary>
-Image12 control.
+Control Image12.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel12">
 	<summary>
-Panel12 control.
+Control Panel12.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p12a">
 	<summary>
-p12a control.
+Control p12a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p12b">
 	<summary>
-p12b control.
+Control p12b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p12c">
 	<summary>
-p12c control.
+Control p12c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p12d">
 	<summary>
-p12d control.
+Control p12d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p12e">
 	<summary>
-p12e control.
+Control p12e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label13">
 	<summary>
-Label13 control.
+Control Label13.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image13">
 	<summary>
-Image13 control.
+Control Image13.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel13">
 	<summary>
-Panel13 control.
+Control Panel13.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList4">
 	<summary>
-DropDownList4 control.
+Control DropDownList4.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label14">
 	<summary>
-Label14 control.
+Control Label14.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image14">
 	<summary>
-Image14 control.
+Control Image14.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel14">
 	<summary>
-Panel14 control.
+Control Panel14.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p14a">
 	<summary>
-p14a control.
+Control p14a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p14b">
 	<summary>
-p14b control.
+Control p14b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p14c">
 	<summary>
-p14c control.
+Control p14c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p14d">
 	<summary>
-p14d control.
+Control p14d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p14e">
 	<summary>
-p14e control.
+Control p14e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label15">
 	<summary>
-Label15 control.
+Control Label15.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image15">
 	<summary>
-Image15 control.
+Control Image15.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel15">
 	<summary>
-Panel15 control.
+Control Panel15.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p15a">
 	<summary>
-p15a control.
+Control p15a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p15b">
 	<summary>
-p15b control.
+Control p15b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p15c">
 	<summary>
-p15c control.
+Control p15c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p15d">
 	<summary>
-p15d control.
+Control p15d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p15e">
 	<summary>
-p15e control.
+Control p15e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label16">
 	<summary>
-Label16 control.
+Control Label16.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image16">
 	<summary>
-Image16 control.
+Control Image16.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel16">
 	<summary>
-Panel16 control.
+Control Panel16.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList5">
 	<summary>
-DropDownList5 control.
+Control DropDownList5.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label17">
 	<summary>
-Label17 control.
+Control Label17.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image17">
 	<summary>
-Image17 control.
+Control Image17.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel17">
 	<summary>
-Panel17 control.
+Control Panel17.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p17a">
 	<summary>
-p17a control.
+Control p17a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p17b">
 	<summary>
-p17b control.
+Control p17b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p17c">
 	<summary>
-p17c control.
+Control p17c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p17d">
 	<summary>
-p17d control.
+Control p17d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p17e">
 	<summary>
-p17e control.
+Control p17e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label18">
 	<summary>
-Label18 control.
+Control Label18.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image18">
 	<summary>
-Image18 control.
+Control Image18.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel18">
 	<summary>
-Panel18 control.
+Control Panel18.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p18a">
 	<summary>
-p18a control.
+Control p18a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p18b">
 	<summary>
-p18b control.
+Control p18b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p18c">
 	<summary>
-p18c control.
+Control p18c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p18d">
 	<summary>
-p18d control.
+Control p18d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p18e">
 	<summary>
-p18e control.
+Control p18e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label19">
 	<summary>
-Label19 control.
+Control Label19.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image19">
 	<summary>
-Image19 control.
+Control Image19.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel19">
 	<summary>
-Panel19 control.
+Control Panel19.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.DropDownList6">
 	<summary>
-DropDownList6 control.
+Control DropDownList6.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Label20">
 	<summary>
-Label20 control.
+Control Label20.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Image20">
 	<summary>
-Image20 control.
+Control Image20.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.Panel20">
 	<summary>
-Panel20 control.
+Control Panel20.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p20a">
 	<summary>
-p20a control.
+Control p20a.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p20b">
 	<summary>
-p20b control.
+Control p20b.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p20c">
 	<summary>
-p20c control.
+Control p20c.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p20d">
 	<summary>
-p20d control.
+Control p20d.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member><member name="F:Encuesta.WebForm1.p20e">
 	<summary>
-p20e control.
+Control p20e.
 </summary>
 	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label24">
+	<summary>
+Control Label24.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label27">
+	<summary>
+Control Label27.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label23">
+	<summary>
+Control Label23.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label22">
+	<summary>
+Control Label22.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label25">
+	<summary>
+Control Label25.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.Label26">
+	<summary>
+Control Label26.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
 </members>

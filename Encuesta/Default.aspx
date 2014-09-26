@@ -237,6 +237,14 @@
                 </asp:Panel>
             </div>
         </div>
+        <asp:Label ID="Label24" runat="server" Text="Label"></asp:Label><br />
+        <asp:Label ID="Label27" runat="server" Text="Label"></asp:Label><br />
+        <asp:Label ID="Label23" runat="server" Text="Label"></asp:Label>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <br />
+        <asp:Label ID="Label22" runat="server" Text="Label"></asp:Label><br />
+        <asp:Label ID="Label25" runat="server" Text="Label"></asp:Label><br />
+        <asp:Label ID="Label26" runat="server" Text="Label"></asp:Label>
     </form>
 </body>
 </html>
