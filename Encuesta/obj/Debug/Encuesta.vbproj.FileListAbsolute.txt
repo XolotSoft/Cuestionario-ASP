@@ -1,0 +1,30 @@
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.dll.config
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.dll
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.pdb
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.xml
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.vbprojResolveAssemblyReference.cache
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.Resources.resources
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.vbproj.GenerateResource.Cache
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.dll
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.xml
+C:\Users\bluedemonjr\Documents\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.pdb
+F:\Encuesta\Encuesta\bin\Encuesta.dll.config
+F:\Encuesta\Encuesta\bin\Encuesta.dll
+F:\Encuesta\Encuesta\bin\Encuesta.pdb
+F:\Encuesta\Encuesta\bin\Encuesta.xml
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.vbprojResolveAssemblyReference.cache
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.Resources.resources
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.vbproj.GenerateResource.Cache
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.dll
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.xml
+F:\Encuesta\Encuesta\obj\Debug\Encuesta.pdb
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.dll.config
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.dll
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.pdb
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\bin\Encuesta.xml
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.vbprojResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.Resources.resources
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.vbproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.dll
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.xml
+E:\Documentos\Visual Studio 2013\Projects\Encuesta\Encuesta\obj\Debug\Encuesta.pdb
