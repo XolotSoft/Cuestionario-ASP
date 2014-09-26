@@ -887,13 +887,31 @@ Partial Public Class WebForm1
     Protected WithEvents p14e As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control Label21.
+    '''Control Label15.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label21 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label15 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image15.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image15 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel15.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel15 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control p15a.
@@ -941,13 +959,31 @@ Partial Public Class WebForm1
     Protected WithEvents p15e As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control Label22.
+    '''Control Label16.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label22 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label16 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image16.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image16 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel16.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel16 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control DropDownList5.
@@ -959,13 +995,31 @@ Partial Public Class WebForm1
     Protected WithEvents DropDownList5 As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control Label23.
+    '''Control Label17.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label23 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label17 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image17.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image17 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel17.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel17 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control p17a.
@@ -1013,13 +1067,31 @@ Partial Public Class WebForm1
     Protected WithEvents p17e As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control Label24.
+    '''Control Label18.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label24 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label18 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image18.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image18 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel18.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel18 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control p18a.
@@ -1067,13 +1139,31 @@ Partial Public Class WebForm1
     Protected WithEvents p18e As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control Label25.
+    '''Control Label19.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label25 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label19 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image19.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image19 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel19.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel19 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control DropDownList6.
@@ -1085,13 +1175,31 @@ Partial Public Class WebForm1
     Protected WithEvents DropDownList6 As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control Label26.
+    '''Control Label20.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label26 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Label20 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control Image20.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Image20 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''Control Panel20.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Panel20 As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
     '''Control p20a.

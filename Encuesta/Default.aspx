@@ -82,11 +82,12 @@
                 <asp:Image ID="Image7" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel7" runat="server">
                     <asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="true">
-                        <asp:ListItem>"a.- Servicios de busqueda de informacion en la Web"</asp:ListItem>
-                        <asp:ListItem>"b.- Servicios de UDP"</asp:ListItem>
-                        <asp:ListItem>"c.- Servicios FTP, SMTP, NNTP Y HTTP/HTTPS"</asp:ListItem>
-                        <asp:ListItem>"d.- Servicios de monitoreo de trafico de red"</asp:ListItem>
-                        <asp:ListItem>"e.- Servicios de encriptado"</asp:ListItem>
+                        <asp:ListItem></asp:ListItem>
+                        <asp:ListItem>a.- Servicios de busqueda de informacion en la Web</asp:ListItem>
+                        <asp:ListItem>b.- Servicios de UDP</asp:ListItem>
+                        <asp:ListItem>c.- Servicios FTP, SMTP, NNTP Y HTTP/HTTPS</asp:ListItem>
+                        <asp:ListItem>d.- Servicios de monitoreo de trafico de red</asp:ListItem>
+                        <asp:ListItem>e.- Servicios de encriptado</asp:ListItem>
                     </asp:DropDownList><br />
                     <br />
                 </asp:Panel>
@@ -103,10 +104,10 @@
                 <asp:Label ID="Label9" runat="server" Text="9- ¿Sobre que conexión es transmitido HTTP?"></asp:Label>
                 <asp:Image ID="Image9" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel9" runat="server">
-                    <asp:CheckBox ID="p9a" runat="server" Text="a.- Sobre conexiones TCP" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p9b" runat="server" Text="b.- Sobre conexiones UDP" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p9c" runat="server" Text="c.- Sobre conexiones HTTPS" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p9d" runat="server" Text="d.- Sobre conexiones SSH" AutoPostBack="true"/>
+                    <asp:CheckBox ID="p9a" runat="server" Text="a.- Sobre conexiones TCP" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p9b" runat="server" Text="b.- Sobre conexiones UDP" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p9c" runat="server" Text="c.- Sobre conexiones HTTPS" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p9d" runat="server" Text="d.- Sobre conexiones SSH" AutoPostBack="true"/><br />
                     <asp:CheckBox ID="p9e" runat="server" Text="e.- Sobre conexiones IP" AutoPostBack="true"/><br />
                     <br />
                 </asp:Panel>
@@ -114,31 +115,32 @@
                 <asp:Image ID="Image10" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel10" runat="server">
                     <asp:DropDownList ID="DropDownList3" runat="server" AutoPostBack="true">
-                        <asp:ListItem>"a.-En el corazón de toda aplicación Web genuina."</asp:ListItem>
-                        <asp:ListItem>"b.- En la cabecera de toda aplicación Web genuina."</asp:ListItem>
-                        <asp:ListItem>"c.- En la cola de toda aplicación Web genuina."</asp:ListItem>
-                        <asp:ListItem>"d.- En los servidores donde se almacena la pagina Web"</asp:ListItem>
-                        <asp:ListItem>"e.- En el localhost"</asp:ListItem>
+                        <asp:ListItem></asp:ListItem>
+                        <asp:ListItem>a.-En el corazón de toda aplicación Web genuina.</asp:ListItem>
+                        <asp:ListItem>b.- En la cabecera de toda aplicación Web genuina.</asp:ListItem>
+                        <asp:ListItem>c.- En la cola de toda aplicación Web genuina.</asp:ListItem>
+                        <asp:ListItem>d.- En los servidores donde se almacena la pagina Web</asp:ListItem>
+                        <asp:ListItem>e.- En el localhost</asp:ListItem>
                     </asp:DropDownList><br />
                     <br />
                 </asp:Panel>
                 <asp:Label ID="Label11" runat="server" Text="11- ¿Qué es un HTML Form?"></asp:Label>
                 <asp:Image ID="Image11" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel11" runat="server">
-                    <asp:RadioButton ID="p11a" runat="server" GroupName="p4" Text="a.- Es la porción de un documento HTML" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p11b" runat="server" GroupName="p4" Text="b.- Es todo el documento HTML" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p11c" runat="server" GroupName="p4" Text="c.- Es la parte final del un documento HTML" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p11d" runat="server" GroupName="p4" Text="d.- Es un contenedor de objetos HTML" AutoPostBack="true"/>
+                    <asp:RadioButton ID="p11a" runat="server" GroupName="p4" Text="a.- Es la porción de un documento HTML" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p11b" runat="server" GroupName="p4" Text="b.- Es todo el documento HTML" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p11c" runat="server" GroupName="p4" Text="c.- Es la parte final del un documento HTML" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p11d" runat="server" GroupName="p4" Text="d.- Es un contenedor de objetos HTML" AutoPostBack="true"/><br />
                     <asp:RadioButton ID="p11e" runat="server" GroupName="p4" Text="e.- HiperText Markup Language" AutoPostBack="true"/><br />
                     <br/>
                 </asp:Panel>
                 <asp:Label ID="Label12" runat="server" Text="12- ¿Cuál de estas siglas es una tecnología de procesamiento?"></asp:Label>
                 <asp:Image ID="Image12" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel12" runat="server">
-                    <asp:CheckBox ID="p12a" runat="server" Text="a.- CGI" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p12b" runat="server" Text="b.- ISAPI" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p12c" runat="server" Text="c.- ASP" AutoPostBack="true"/>
-                    <asp:CheckBox ID="p12d" runat="server" Text="d.- TP" AutoPostBack="true"/>
+                    <asp:CheckBox ID="p12a" runat="server" Text="a.- CGI" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p12b" runat="server" Text="b.- ISAPI" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p12c" runat="server" Text="c.- ASP" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p12d" runat="server" Text="d.- TP" AutoPostBack="true"/><br />
                     <asp:CheckBox ID="p12e" runat="server" Text="e.- ITIL" AutoPostBack="true"/><br />
                     <br />
                 </asp:Panel>
@@ -146,64 +148,91 @@
                 <asp:Image ID="Image13" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel13" runat="server">
                     <asp:DropDownList ID="DropDownList4" runat="server" AutoPostBack="true">
-                        <asp:ListItem>"a.- Soporta XML, hojas de estilo CSS, etc."</asp:ListItem>
-                        <asp:ListItem>"b.- No permite usar ADO.NET para acceso a datos lo cual evita errores."</asp:ListItem>
-                        <asp:ListItem>"c.- Acceso a toda la .NET CLASS LIBRARY"</asp:ListItem>
-                        <asp:ListItem>"d.- Uso de archivos CSS"</asp:ListItem>
-                        <asp:ListItem>"e.- Carga mas rapida en navegador"</asp:ListItem>
+                        <asp:ListItem></asp:ListItem>
+                        <asp:ListItem>a.- Soporta XML, hojas de estilo CSS, etc.</asp:ListItem>
+                        <asp:ListItem>b.- No permite usar ADO.NET para acceso a datos lo cual evita errores.</asp:ListItem>
+                        <asp:ListItem>c.- Acceso a toda la .NET CLASS LIBRARY</asp:ListItem>
+                        <asp:ListItem>d.- Uso de archivos CSS</asp:ListItem>
+                        <asp:ListItem>e.- Carga mas rapida en navegador</asp:ListItem>
                     </asp:DropDownList><br />
                     <br />
                 </asp:Panel>
                 <asp:Label ID="Label14" runat="server" Text="14- ¿Cuál de estos son componentes de una aplicación ASP.NET?"></asp:Label>
                 <asp:Image ID="Image14" runat="server" CssClass="calificacion"/><br /><br />
                 <asp:Panel ID="Panel14" runat="server">
-                    <asp:RadioButton ID="p14a" runat="server" GroupName="p4" Text="a.- Code-Hide" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p14b" runat="server" GroupName="p4" Text="b.- Global.asax" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p14c" runat="server" GroupName="p4" Text="c.- Es la parte final del un documento HTML" AutoPostBack="true"/>
-                    <asp:RadioButton ID="p14d" runat="server" GroupName="p4" Text="d.- WebForms" AutoPostBack="true"/>
+                    <asp:RadioButton ID="p14a" runat="server" GroupName="p4" Text="a.- Code-Hide" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p14b" runat="server" GroupName="p4" Text="b.- Global.asax" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p14c" runat="server" GroupName="p4" Text="c.- Es la parte final del un documento HTML" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p14d" runat="server" GroupName="p4" Text="d.- WebForms" AutoPostBack="true"/><br />
                     <asp:RadioButton ID="p14e" runat="server" GroupName="p4" Text="e.- WebForms Anidada a Pagina Maestra" AutoPostBack="true"/><br />
                     <br />
                 </asp:Panel>
-                <asp:Label ID="Label21" runat="server" Text="15- ¿Qué son los archivos Code-Behind?"></asp:Label><br /><br />
-                <asp:CheckBox ID="p15a" runat="server" Text="a.- Archivos asociados a WebForms" AutoPostBack="true"/>
-                <asp:CheckBox ID="p15b" runat="server" Text="b.- Archivos multiples" AutoPostBack="true"/>
-                <asp:CheckBox ID="p15c" runat="server" Text="c.- Archivos asociados a todas las aplicaciones Web" AutoPostBack="true"/>
-                <asp:CheckBox ID="p15d" runat="server" Text="d.- Archivos ocultos de codigo" AutoPostBack="true"/>
-                <asp:CheckBox ID="p15e" runat="server" Text="e.- Archivos ocultos de los WebForms" AutoPostBack="true"/><br /><br />
-                <asp:Label ID="Label22" runat="server" Text="16- ¿Qué significan las siglas IIS?"></asp:Label><br /><br />
-                <asp:DropDownList ID="DropDownList5" runat="server" AutoPostBack="true">
-                    <asp:ListItem>"a.- Identification Information Server"</asp:ListItem>
-                    <asp:ListItem>"b.- Internet Implementation Server"</asp:ListItem>
-                    <asp:ListItem>"c.- Internet Information Server"</asp:ListItem>
-                    <asp:ListItem>"d.- Identity Institut Security"</asp:ListItem>
-                    <asp:ListItem>"e.- Internet Identity Server"</asp:ListItem>
-                </asp:DropDownList><br /><br />
-        <asp:Label ID="Label23" runat="server" Text="17- ¿Qué es un formulario Web?"></asp:Label><br /><br />
-            <asp:RadioButton ID="p17a" runat="server" GroupName="p5" Text="a.- Es una página expresada en lenguaje de marcas" AutoPostBack="true"/>
-            <asp:RadioButton ID="p17b" runat="server" GroupName="p5" Text="b.- Es una .docx expresada en lenguaje de marcas" AutoPostBack="true"/>
-            <asp:RadioButton ID="p17c" runat="server" GroupName="p5" Text="c.- Es una página de códigos PHP" AutoPostBack="true"/>
-            <asp:RadioButton ID="p17d" runat="server" GroupName="p5" Text="d.- Es un documento realizado en DreamWeaver" AutoPostBack="true"/>
-            <asp:RadioButton ID="p17e" runat="server" GroupName="p5" Text="e.- Contenedor de WindowsForm" AutoPostBack="true"/><br /><br />
-         <asp:Label ID="Label24" runat="server" Text="18- ¿Donde es compilada la WebForms?"></asp:Label><br /><br />
-            <asp:CheckBox ID="p18a" runat="server" Text="a.- En cualquier navegador" AutoPostBack="true"/>
-            <asp:CheckBox ID="p18b" runat="server" Text="b.- En el servidor" AutoPostBack="true"/>
-            <asp:CheckBox ID="p18c" runat="server" Text="c.- En cualquier sistema" AutoPostBack="true"/>
-            <asp:CheckBox ID="p18d" runat="server" Text="d.- En el procesador" AutoPostBack="true"/>
-            <asp:CheckBox ID="p18e" runat="server" Text="e.- En Mozilla FireFox" AutoPostBack="true"/><br /><br />
-         <asp:Label ID="Label25" runat="server" Text="19- ¿Qué es un controlador de Servicios?"></asp:Label><br /><br />
-                <asp:DropDownList ID="DropDownList6" runat="server" AutoPostBack="true">
-                <asp:ListItem>"a.- Son componentes que se ejecutan del lado del Servidor."</asp:ListItem>
-                <asp:ListItem>"b.- Son componentes que se ejecutan del lado del Cliente."</asp:ListItem>
-                <asp:ListItem>"c.- Son componentes que se ejecutan del lado del Usuario."</asp:ListItem>
-                <asp:ListItem>"d.- Son componentes que se ejecutan al momento de conectar un dispositivo HW"</asp:ListItem>
-                <asp:ListItem>"e.- Son componentes que se ejecutan al hacer una llamada al sistema"</asp:ListItem>
-            </asp:DropDownList><br /><br />
-        <asp:Label ID="Label26" runat="server" Text="20- ¿Cuál de estos es un evento de un Web Forms?"></asp:Label><br /><br />
-            <asp:RadioButton ID="p20a" runat="server" GroupName="p6" Text="a.- Post Back" AutoPostBack="true"/>
-            <asp:RadioButton ID="p20b" runat="server" GroupName="p6" Text="b.- IIS" AutoPostBack="true"/>
-            <asp:RadioButton ID="p20c" runat="server" GroupName="p6" Text="c.- View State" AutoPostBack="true"/>
-            <asp:RadioButton ID="p20d" runat="server" GroupName="p6" Text="d.- Front End" AutoPostBack="true"/>
-            <asp:RadioButton ID="p20e" runat="server" GroupName="p6" Text="e.- FeedBack" AutoPostBack="true"/>
+                <asp:Label ID="Label15" runat="server" Text="15- ¿Qué son los archivos Code-Behind?"></asp:Label>
+                <asp:Image ID="Image15" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel15" runat="server">
+                    <asp:CheckBox ID="p15a" runat="server" Text="a.- Archivos asociados a WebForms" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p15b" runat="server" Text="b.- Archivos multiples" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p15c" runat="server" Text="c.- Archivos asociados a todas las aplicaciones Web" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p15d" runat="server" Text="d.- Archivos ocultos de codigo" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p15e" runat="server" Text="e.- Archivos ocultos de los WebForms" AutoPostBack="true"/><br />
+                    <br />
+                </asp:Panel>
+                <asp:Label ID="Label16" runat="server" Text="16- ¿Qué significan las siglas IIS?"></asp:Label>
+                <asp:Image ID="Image16" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel16" runat="server">
+                    <asp:DropDownList ID="DropDownList5" runat="server" AutoPostBack="true">
+                        <asp:ListItem></asp:ListItem>
+                        <asp:ListItem>a.- Identification Information Server</asp:ListItem>
+                        <asp:ListItem>b.- Internet Implementation Server</asp:ListItem>
+                        <asp:ListItem>c.- Internet Information Server</asp:ListItem>
+                        <asp:ListItem>d.- Identity Institut Security</asp:ListItem>
+                        <asp:ListItem>e.- Internet Identity Server</asp:ListItem>
+                    </asp:DropDownList><br />
+                    <br />
+                </asp:Panel>
+                <asp:Label ID="Label17" runat="server" Text="17- ¿Qué es un formulario Web?"></asp:Label>
+                <asp:Image ID="Image17" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel17" runat="server">
+                    <asp:RadioButton ID="p17a" runat="server" GroupName="p5" Text="a.- Es una página expresada en lenguaje de marcas" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p17b" runat="server" GroupName="p5" Text="b.- Es una .docx expresada en lenguaje de marcas" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p17c" runat="server" GroupName="p5" Text="c.- Es una página de códigos PHP" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p17d" runat="server" GroupName="p5" Text="d.- Es un documento realizado en DreamWeaver" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p17e" runat="server" GroupName="p5" Text="e.- Contenedor de WindowsForm" AutoPostBack="true"/><br />
+                    <br />
+                </asp:Panel>
+                <asp:Label ID="Label18" runat="server" Text="18- ¿Donde es compilada la WebForms?"></asp:Label>
+                <asp:Image ID="Image18" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel18" runat="server">
+                    <asp:CheckBox ID="p18a" runat="server" Text="a.- En cualquier navegador" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p18b" runat="server" Text="b.- En el servidor" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p18c" runat="server" Text="c.- En cualquier sistema" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p18d" runat="server" Text="d.- En el procesador" AutoPostBack="true"/><br />
+                    <asp:CheckBox ID="p18e" runat="server" Text="e.- En Mozilla FireFox" AutoPostBack="true"/><br />
+                    <br />
+                </asp:Panel>
+                <asp:Label ID="Label19" runat="server" Text="19- ¿Qué es un controlador de Servicios?"></asp:Label>
+                <asp:Image ID="Image19" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel19" runat="server">
+                    <asp:DropDownList ID="DropDownList6" runat="server" AutoPostBack="true">
+                        <asp:ListItem></asp:ListItem>
+                        <asp:ListItem>a.- Son componentes que se ejecutan del lado del Servidor.</asp:ListItem>
+                        <asp:ListItem>b.- Son componentes que se ejecutan del lado del Cliente.</asp:ListItem>
+                        <asp:ListItem>c.- Son componentes que se ejecutan del lado del Usuario.</asp:ListItem>
+                        <asp:ListItem>d.- Son componentes que se ejecutan al momento de conectar un dispositivo HW</asp:ListItem>
+                        <asp:ListItem>e.- Son componentes que se ejecutan al hacer una llamada al sistema</asp:ListItem>
+                    </asp:DropDownList><br />
+                    <br />
+                </asp:Panel>
+                <asp:Label ID="Label20" runat="server" Text="20- ¿Cuál de estos es un evento de un Web Forms?"></asp:Label>
+                <asp:Image ID="Image20" runat="server" CssClass="calificacion"/><br /><br />
+                <asp:Panel ID="Panel20" runat="server">
+                    <asp:RadioButton ID="p20a" runat="server" GroupName="p6" Text="a.- Post Back" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p20b" runat="server" GroupName="p6" Text="b.- IIS" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p20c" runat="server" GroupName="p6" Text="c.- View State" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p20d" runat="server" GroupName="p6" Text="d.- Front End" AutoPostBack="true"/><br />
+                    <asp:RadioButton ID="p20e" runat="server" GroupName="p6" Text="e.- FeedBack" AutoPostBack="true"/><br />
+                    <br />
+                </asp:Panel>
             </div>
         </div>
     </form>
