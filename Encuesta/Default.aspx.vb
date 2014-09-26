@@ -7,7 +7,7 @@
 
     Protected Sub p1a_CheckedChanged(sender As Object, e As EventArgs) Handles p1a.CheckedChanged
         Panel1.Visible = False
-        Image1.ImageUrl = "src/ok.png"
+        Image1.ImageUrl = "src/bad.png"
     End Sub
 
     Protected Sub p1b_CheckedChanged(sender As Object, e As EventArgs) Handles p1b.CheckedChanged
@@ -27,7 +27,7 @@
 
     Protected Sub p1e_CheckedChanged(sender As Object, e As EventArgs) Handles p1e.CheckedChanged
         Panel1.Visible = False
-        Image1.ImageUrl = "src/bad.png"
+        Image1.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p2a_CheckedChanged(sender As Object, e As EventArgs) Handles p2a.CheckedChanged
@@ -57,10 +57,10 @@
 
     Protected Sub DropDownList1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList1.SelectedIndexChanged
         Panel3.Visible = False
-        If DropDownList1.SelectedIndex = 2 Then
+        If DropDownList1.SelectedIndex = 4 Then
             Image3.ImageUrl = "src/ok.png"
-        else
-        Image3.ImageUrl = "src/bad.png"
+        Else
+            Image3.ImageUrl = "src/bad.png"
         End If
     End Sub
 
@@ -121,7 +121,7 @@
 
     Protected Sub p6b_CheckedChanged(sender As Object, e As EventArgs) Handles p6b.CheckedChanged
         Panel6.Visible = False
-        Image6.ImageUrl = "src/bad.png"
+        Image6.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p6c_CheckedChanged(sender As Object, e As EventArgs) Handles p6c.CheckedChanged
@@ -141,7 +141,7 @@
 
     Protected Sub DropDownList2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList2.SelectedIndexChanged
         Panel7.Visible = False
-        If DropDownList2.SelectedIndex = 2 Then
+        If DropDownList2.SelectedIndex = 3 Then
             Image7.ImageUrl = "src/ok.png"
         Else
             Image7.ImageUrl = "src/bad.png"
@@ -165,7 +165,7 @@
 
     Protected Sub p8d_CheckedChanged(sender As Object, e As EventArgs) Handles p8d.CheckedChanged
         Panel8.Visible = False
-        Image8.ImageUrl = "src/bad.png"
+        Image8.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p8e_CheckedChanged(sender As Object, e As EventArgs) Handles p8e.CheckedChanged
@@ -175,7 +175,7 @@
 
     Protected Sub p9a_CheckedChanged(sender As Object, e As EventArgs) Handles p9a.CheckedChanged
         Panel9.Visible = False
-        Image9.ImageUrl = "src/bad.png"
+        Image9.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p9b_CheckedChanged(sender As Object, e As EventArgs) Handles p9b.CheckedChanged
@@ -200,7 +200,7 @@
 
     Protected Sub DropDownList3_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList3.SelectedIndexChanged
         Panel10.Visible = False
-        If DropDownList3.SelectedIndex = 2 Then
+        If DropDownList3.SelectedIndex = 1 Then
             Image10.ImageUrl = "src/ok.png"
         Else
             Image10.ImageUrl = "src/bad.png"
@@ -224,7 +224,7 @@
 
     Protected Sub p11d_CheckedChanged(sender As Object, e As EventArgs) Handles p11d.CheckedChanged
         Panel11.Visible = False
-        Image11.ImageUrl = "src/bad.png"
+        Image11.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p11e_CheckedChanged(sender As Object, e As EventArgs) Handles p11e.CheckedChanged
@@ -244,7 +244,7 @@
 
     Protected Sub p12c_CheckedChanged(sender As Object, e As EventArgs) Handles p12c.CheckedChanged
         Panel12.Visible = False
-        Image12.ImageUrl = "src/bad.png"
+        Image12.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p12d_CheckedChanged(sender As Object, e As EventArgs) Handles p12d.CheckedChanged
@@ -259,7 +259,7 @@
 
     Protected Sub DropDownList4_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList4.SelectedIndexChanged
         Panel13.Visible = False
-        If DropDownList4.SelectedIndex = 2 Then
+        If DropDownList4.SelectedIndex = 1 Then
             Image13.ImageUrl = "src/ok.png"
         Else
             Image13.ImageUrl = "src/bad.png"
@@ -283,7 +283,7 @@
 
     Protected Sub p14d_CheckedChanged(sender As Object, e As EventArgs) Handles p14d.CheckedChanged
         Panel14.Visible = False
-        Image14.ImageUrl = "src/bad.png"
+        Image14.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p14e_CheckedChanged(sender As Object, e As EventArgs) Handles p14e.CheckedChanged
@@ -298,7 +298,7 @@
 
     Protected Sub p15b_CheckedChanged(sender As Object, e As EventArgs) Handles p15b.CheckedChanged
         Panel15.Visible = False
-        Image15.ImageUrl = "src/bad.png"
+        Image15.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p15c_CheckedChanged(sender As Object, e As EventArgs) Handles p15c.CheckedChanged
@@ -318,7 +318,7 @@
 
     Protected Sub DropDownList5_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList5.SelectedIndexChanged
         Panel16.Visible = False
-        If DropDownList5.SelectedIndex = 2 Then
+        If DropDownList5.SelectedIndex = 4 Then
             Image16.ImageUrl = "src/ok.png"
         Else
             Image16.ImageUrl = "src/bad.png"
@@ -327,7 +327,7 @@
 
     Protected Sub p17a_CheckedChanged(sender As Object, e As EventArgs) Handles p17a.CheckedChanged
         Panel17.Visible = False
-        Image17.ImageUrl = "src/bad.png"
+        Image17.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p17b_CheckedChanged(sender As Object, e As EventArgs) Handles p17b.CheckedChanged
@@ -357,7 +357,7 @@
 
     Protected Sub p18b_CheckedChanged(sender As Object, e As EventArgs) Handles p18b.CheckedChanged
         Panel18.Visible = False
-        Image18.ImageUrl = "src/bad.png"
+        Image18.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p18c_CheckedChanged(sender As Object, e As EventArgs) Handles p18c.CheckedChanged
@@ -377,7 +377,7 @@
 
     Protected Sub DropDownList6_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList6.SelectedIndexChanged
         Panel19.Visible = False
-        If DropDownList6.SelectedIndex = 2 Then
+        If DropDownList6.SelectedIndex = 4 Then
             Image19.ImageUrl = "src/ok.png"
         Else
             Image19.ImageUrl = "src/bad.png"
@@ -396,7 +396,7 @@
 
     Protected Sub p20c_CheckedChanged(sender As Object, e As EventArgs) Handles p20c.CheckedChanged
         Panel20.Visible = False
-        Image20.ImageUrl = "src/bad.png"
+        Image20.ImageUrl = "src/ok.png"
     End Sub
 
     Protected Sub p20d_CheckedChanged(sender As Object, e As EventArgs) Handles p20d.CheckedChanged
