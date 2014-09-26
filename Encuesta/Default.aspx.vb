@@ -1,6 +1,10 @@
 ﻿Public Class WebForm1
     Inherits System.Web.UI.Page
-
+    Dim ra As Integer
+    Dim rb As Integer
+    Dim rc As Integer
+    Dim rd As Integer
+    Dim re As Integer
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
 
     End Sub
