@@ -1,7 +1,5 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Default.aspx.vb" Inherits="Encuesta.WebForm1" %>
-
-<%@ Register assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" namespace="System.Web.UI.DataVisualization.Charting" tagprefix="asp" %>
-
+<%@ Register Assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Namespace="System.Web.UI.DataVisualization.Charting" TagPrefix="asp" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -256,18 +254,32 @@
         <asp:Label Text="Calificacion" runat="server" />
         <asp:Label id="lblcal" runat="server" Text="" /><br />
         <asp:Button ID="Button1" runat="server" Text="Estadisticas" CssClass ="btn-default " />
-        
-        <asp:Chart ID="Chart1" runat="server" Width="600px">
-            <series>
-                <asp:Series ChartArea="ChartArea1" Name="Series1">
-                </asp:Series>
-            </series>
-            <chartareas>
-                <asp:ChartArea Name="ChartArea1">
-                </asp:ChartArea>
-            </chartareas>
-        </asp:Chart>
-        
+        <br />
+        <br />
+        <br />
+        <asp:Chart ID="Chart1" runat="server" Width="800px" Height="400px" BackColor="Silver" BackSecondaryColor="White" BackGradientStyle="TopBottom">
+        <Series>
+            <asp:Series Name="Series1" ChartType="Column" ChartArea="ChartArea1" Label="Respuestas">
+                <Points>
+                    <asp:DataPoint Label="Correctas" LegendText="Correctas" YValues="0" />
+                    <asp:DataPoint Label="Erroneas" LegendText="Erroneas" YValues="0" />
+                    <asp:DataPoint Label="Tipo A" LegendText="Tipo A" YValues="0" />
+                    <asp:DataPoint Label="Tipo B" LegendText="Tipo B" YValues="0" />
+                    <asp:DataPoint Label="Tipo C" YValues="0" />
+                    <asp:DataPoint Label="Tipo D" YValues="0" />
+                    <asp:DataPoint Label="Tipo E" YValues="0" />
+                </Points>
+            </asp:Series>
+        </Series>
+        <ChartAreas>
+            <asp:ChartArea Name="ChartArea1" BackSecondaryColor="White" BackColor="Gainsboro" BackGradientStyle="DiagonalLeft">
+            </asp:ChartArea>
+        </ChartAreas>
+        <Titles>
+            <asp:Title Text="Estadisticas" />
+        </Titles>
+        <BorderSkin SkinStyle="Emboss" />
+    </asp:Chart>
     </form>
 </body>
 </html>

@@ -12,8 +12,11 @@
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
      
-        Chart1.Series("Series1").XValueMember = 2
-        Chart1.Series("Series1").YValueMembers = 12
+        'Chart1.Series("Series1").XValueMember = 2
+        'Chart1.Series("Series1").YValueMembers = 12
+
+        
+
     End Sub
 
     Protected Sub p1a_CheckedChanged(sender As Object, e As EventArgs) Handles p1a.CheckedChanged
@@ -700,7 +703,12 @@
         lblrm.Text = rm
         lblrok.Text = rok
         lblcal.Text = (rok * 10) / 20
-        
-
+        Chart1.Series(0).Points(0).SetValueY(rok)
+        Chart1.Series(0).Points(1).SetValueY(rm)
+        Chart1.Series(0).Points(2).SetValueY(ra)
+        Chart1.Series(0).Points(3).SetValueY(rb)
+        Chart1.Series(0).Points(4).SetValueY(rc)
+        Chart1.Series(0).Points(5).SetValueY(rd)
+        Chart1.Series(0).Points(6).SetValueY(re)
     End Sub
 End Class
