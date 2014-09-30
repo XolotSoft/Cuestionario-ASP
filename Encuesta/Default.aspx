@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Default.aspx.vb" Inherits="Encuesta.WebForm1" %>
 
+<%@ Register assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" namespace="System.Web.UI.DataVisualization.Charting" tagprefix="asp" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -237,14 +239,35 @@
                 </asp:Panel>
             </div>
         </div>
-        <asp:Label ID="Label24" runat="server" Text="Label"></asp:Label><br />
-        <asp:Label ID="Label27" runat="server" Text="Label"></asp:Label><br />
-        <asp:Label ID="Label23" runat="server" Text="Label"></asp:Label>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
-        <br />
-        <asp:Label ID="Label22" runat="server" Text="Label"></asp:Label><br />
-        <asp:Label ID="Label25" runat="server" Text="Label"></asp:Label><br />
-        <asp:Label ID="Label26" runat="server" Text="Label"></asp:Label>
+        <asp:Label Text="Cantidad de respuestas A seleccionadas:" runat="server" />
+        <asp:Label ID="lblra" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Cantidad de respuestas B seleccionadas:" runat="server" />
+        <asp:Label ID="lblrb" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Cantidad de respuestas C seleccionadas:" runat="server" />
+        <asp:Label ID="lblrc" runat="server" Text=""></asp:Label>  <br />
+        <asp:Label Text="Cantidad de respuestas D seleccionadas:" runat="server" />
+        <asp:Label ID="lblrd" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Cantidad de respuestas E seleccionadas:" runat="server" />
+        <asp:Label ID="lblre" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Cantidad de respuestas incorrectas:" runat="server" />
+        <asp:Label ID="lblrm" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Cantidad de respuestas correctas:" runat="server" />
+         <asp:Label ID="lblrok" runat="server" Text=""></asp:Label><br />
+        <asp:Label Text="Calificacion" runat="server" />
+        <asp:Label id="lblcal" runat="server" Text="" /><br />
+        <asp:Button ID="Button1" runat="server" Text="Estadisticas" CssClass ="btn-default " />
+        
+        <asp:Chart ID="Chart1" runat="server" Width="600px">
+            <series>
+                <asp:Series ChartArea="ChartArea1" Name="Series1">
+                </asp:Series>
+            </series>
+            <chartareas>
+                <asp:ChartArea Name="ChartArea1">
+                </asp:ChartArea>
+            </chartareas>
+        </asp:Chart>
+        
     </form>
 </body>
 </html>

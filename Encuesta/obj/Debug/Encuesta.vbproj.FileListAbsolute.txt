@@ -38,3 +38,13 @@ C:\Users\guillermo2318\Source\Repos\Cuestionario-ASP3\Encuesta\obj\Debug\Encuest
 C:\Users\guillermo2318\Source\Repos\Cuestionario-ASP3\Encuesta\obj\Debug\Encuesta.dll
 C:\Users\guillermo2318\Source\Repos\Cuestionario-ASP3\Encuesta\obj\Debug\Encuesta.xml
 C:\Users\guillermo2318\Source\Repos\Cuestionario-ASP3\Encuesta\obj\Debug\Encuesta.pdb
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\bin\Encuesta.dll.config
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\bin\Encuesta.dll
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\bin\Encuesta.pdb
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\bin\Encuesta.xml
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.vbprojResolveAssemblyReference.cache
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.Resources.resources
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.vbproj.GenerateResource.Cache
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.dll
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.xml
+C:\Users\StarKiller\Source\Repos\Cuestionario-ASP\Encuesta\obj\Debug\Encuesta.pdb

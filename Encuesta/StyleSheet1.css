@@ -13,6 +13,11 @@ html {
 body {
   margin: 0;
 }
+.ra{
+    width:80px;
+    background: #3c763d;
+}
+
 article,
 aside,
 details,

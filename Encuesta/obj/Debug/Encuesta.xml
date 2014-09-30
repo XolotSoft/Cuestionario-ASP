@@ -6,32 +6,7 @@ Encuesta
 </name>
 </assembly>
 <members>
-<member name="P:Encuesta.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:Encuesta.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:Encuesta.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:Encuesta.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:Encuesta.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:Encuesta.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
-</member><member name="F:Encuesta.WebForm1.form1">
+<member name="F:Encuesta.WebForm1.form1">
 	<summary>
 Control form1.
 </summary>
@@ -1143,25 +1118,65 @@ Control p20e.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Encuesta.WebForm1.Label24">
+</member><member name="F:Encuesta.WebForm1.lblra">
 	<summary>
-Control Label24.
+Control lblra.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Encuesta.WebForm1.Label27">
+</member><member name="F:Encuesta.WebForm1.lblrb">
 	<summary>
-Control Label27.
+Control lblrb.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Encuesta.WebForm1.Label23">
+</member><member name="F:Encuesta.WebForm1.lblrc">
 	<summary>
-Control Label23.
+Control lblrc.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.lblrd">
+	<summary>
+Control lblrd.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.lblre">
+	<summary>
+Control lblre.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.lblrm">
+	<summary>
+Control lblrm.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.lblrok">
+	<summary>
+Control lblrok.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Encuesta.WebForm1.lblcal">
+	<summary>
+Control lblcal.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -1175,30 +1190,39 @@ Control Button1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Encuesta.WebForm1.Label22">
+</member><member name="F:Encuesta.WebForm1.Chart1">
 	<summary>
-Control Label22.
+Control Chart1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Encuesta.WebForm1.Label25">
+</member><member name="P:Encuesta.My.MyWebExtension.Computer">
 	<summary>
-Control Label25.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Encuesta.WebForm1.Label26">
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Encuesta.My.MyWebExtension.User">
 	<summary>
-Control Label26.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Encuesta.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Encuesta.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Encuesta.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Encuesta.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>

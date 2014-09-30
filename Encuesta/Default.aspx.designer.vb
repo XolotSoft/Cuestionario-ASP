@@ -1265,31 +1265,76 @@ Partial Public Class WebForm1
     Protected WithEvents p20e As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control Label24.
+    '''Control lblra.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label24 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lblra As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Control Label27.
+    '''Control lblrb.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label27 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lblrb As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Control Label23.
+    '''Control lblrc.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label23 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lblrc As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control lblrd.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblrd As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control lblre.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblre As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control lblrm.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblrm As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control lblrok.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblrok As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control lblcal.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblcal As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''Control Button1.
@@ -1301,29 +1346,11 @@ Partial Public Class WebForm1
     Protected WithEvents Button1 As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control Label22.
+    '''Control Chart1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents Label22 As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Control Label25.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents Label25 As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Control Label26.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents Label26 As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Chart1 As Global.System.Web.UI.DataVisualization.Charting.Chart
 End Class
