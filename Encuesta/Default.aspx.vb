@@ -1,6 +1,8 @@
-﻿Public Class WebForm1
+﻿Imports System.Data.SqlClient
+
+Public Class WebForm1
     Inherits System.Web.UI.Page
-    
+
     Dim ra As Integer = 0
     Dim rb As Integer = 0
     Dim rc As Integer = 0
@@ -9,11 +11,9 @@
     Dim rm As Integer = 0
     Dim rok As Integer = 0
 
+    Dim conec As String
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-     
-        'Chart1.Series("Series1").XValueMember = 2
-        'Chart1.Series("Series1").YValueMembers = 12
 
         
 
@@ -24,6 +24,15 @@
         Image1.ImageUrl = "src/bad.png"
         ViewState("ra") += 1
         ViewState("rm") += 1
+        Dim conec As SqlConnection = New SqlConnection("Data Source=RV415\SQLEXPRESS;Initial Catalog=encuestas;Integrated Security=True")
+        conec.Open()
+        'MsgBox(conec.State.ToString())
+        'Dim sql As String = "INSERT INTO usuario(noUser) VALUES('" + TextBox1.Text + "')"
+        'Dim cmd As SqlCommand = New SqlCommand(sql, conec)
+        'Dim cmd As SqlCommand = New SqlCommand("INSERT INTO respuestas(p1) VALUES('a') WHERE idUser = '1'")
+        'cmd.ExecuteNonQuery()
+        'Dim cmd As SqlCommand = New SqlCommand("UPDATE respuestas SET p1='a' WHERE idTAs = 1", conec)
+        'cmd.ExecuteNonQuery()
     End Sub
 
     Protected Sub p1b_CheckedChanged(sender As Object, e As EventArgs) Handles p1b.CheckedChanged
@@ -447,9 +456,9 @@
             ViewState("rm") += 1
             ViewState("re") += 1
         End If
-       
-      
-       
+
+
+
     End Sub
 
     Protected Sub p14a_CheckedChanged(sender As Object, e As EventArgs) Handles p14a.CheckedChanged
